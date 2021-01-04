@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "Yusuf Atılgan",
+      "salary": "8000",
+      "department": "Edebiyat",
+      "id": "unique-1"
+    },
+    {
+      "name": "Oğuz Atay",
+      "salary": "2000",
+      "department": "Edebiyatt",
+      "id": "aPOYd88"
+    },
+    {
+      "name": "İsmet Özel",
+      "department": "Şiir",
+      "salary": "5000",
+      "id": "KDmExK9"
+    }
+  ]
+}

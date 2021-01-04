@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/son.js.iml" filepath="$PROJECT_DIR$/.idea/son.js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/react-user-contextapi.js.iml" filepath="$PROJECT_DIR$/.idea/react-user-contextapi.js.iml" />
     </modules>
   </component>
 </project>
